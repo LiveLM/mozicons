@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg2635"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="twitch.svg"
+   inkscape:export-filename="/mnt/data/Desktop/KDE/mozicons/yt.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2629" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="65.912454"
+     inkscape:cy="23.738585"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:pagecheckerboard="true"
+     showgrid="false"
+     units="px"
+     width="500px"
+     borderlayer="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:lockguides="true" />
+  <metadata
+     id="metadata2632">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#9147ff;fill-opacity:1;stroke-width:21.2869;stroke-linecap:round;stroke-linejoin:round"
+       id="rect853"
+       width="100"
+       height="100"
+       x="0"
+       y="0"
+       sodipodi:insensitive="true"
+       inkscape:label="bg" />
+    <path
+       d="m 63.200195,35.104518 h -3.772461 v 10.712888 h 3.772461 z m -10.36817,-0.04592 H 49.05957 v 10.717774 h 3.772455 z M 36.799804,25 27.374023,33.927733 V 66.072267 H 38.685546 V 75 l 9.426761,-8.927733 h 7.543942 L 72.625978,50 V 25 Z m 32.054685,23.217777 -7.541018,7.140624 h -7.542967 l -6.601565,6.249998 V 55.358401 H 38.685546 V 28.572263 h 30.168943 z"
+       id="path2384"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.0976562" />
+  </g>
+</svg>
